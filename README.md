@@ -26,7 +26,7 @@ For conceptual clearity refer the explaination given in the book.</p>
     <li>merge 2 sorted lists</li>
     <li>print N th node from end</li>
     <li>implement stack using linked list</li>
-    <li>display list from end to fromt</li>
+    <li>display list from end to front</li>
     <li>Add All Element of Linked List as number</li>
     <li>Add 1 to a number represented as linked list</li>
     <li>Intersection of two sorted Linked lists </li>
